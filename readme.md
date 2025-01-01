@@ -1,4 +1,4 @@
-On 27.11.2024 I had the pleasure of presenting my lecture _Tool your way to inner peace in Unity development_ at the [Game Industry Conference](https://gic.gd/) in Poznan.
+On 27.11.2024 I had the pleasure of presenting my lecture **Tool your way to inner peace in Unity development** at the [Game Industry Conference](https://gic.gd/) in Poznan.
 It was a great experience, just look at the photo :smiley:
 
 In this repo I'm sharing the [slides](https://github.com/patrykf-dev/tools-unity-gic-2024/blob/main/slides.pdf) and all the code samples I used during my talk.
